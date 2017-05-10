@@ -1,0 +1,6 @@
+c:\users\torfi\documents\visual studio 2015\Projects\Toptrumps\Toptrumps\bin\Debug\Toptrumps.exe.config
+c:\users\torfi\documents\visual studio 2015\Projects\Toptrumps\Toptrumps\bin\Debug\Toptrumps.exe
+c:\users\torfi\documents\visual studio 2015\Projects\Toptrumps\Toptrumps\bin\Debug\Toptrumps.pdb
+c:\users\torfi\documents\visual studio 2015\Projects\Toptrumps\Toptrumps\obj\Debug\Toptrumps.csprojResolveAssemblyReference.cache
+c:\users\torfi\documents\visual studio 2015\Projects\Toptrumps\Toptrumps\obj\Debug\Toptrumps.exe
+c:\users\torfi\documents\visual studio 2015\Projects\Toptrumps\Toptrumps\obj\Debug\Toptrumps.pdb
